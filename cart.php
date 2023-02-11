@@ -215,7 +215,7 @@ $deskripsi = implode('<br>',$deskripsi_explode);
             <input type="hidden" name="harga_barang" value="<?php echo htmlspecialchars($harga_barang, ENT_QUOTES, 'UTF-8'); ?>" >
 
 
-   <input type="hidden" name="nama_barang" value="<?php echo $nama_barang; ?>" >
+   
             
             
             
